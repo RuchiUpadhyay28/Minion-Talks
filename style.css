@@ -1,0 +1,39 @@
+.container{
+    background-color: rgb(255, 255, 5);
+}
+
+img{
+    margin-left:25rem;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family: cursive;
+}
+textarea{
+    width:80%;
+    margin-left:9rem;
+    display: block;
+}
+
+#OutTxt{
+    border: 1px solid black;
+    height: 20vh;
+    margin-left:9rem;
+    width:80%;
+}
+
+#btnTranslate{
+    margin-left:9rem;
+    border-radius: 5px;
+    color: brown;
+    font-family: cursive;
+}
+
+
+#text{
+    font-family: cursive;
+    color: brown;
+    margin-left:9rem;
+}
