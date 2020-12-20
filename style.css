@@ -27,7 +27,10 @@ textarea{
 #btnTranslate{
     margin-left:9rem;
     border-radius: 5px;
-    color: brown;
+    color: blue;
+    background-color:  rgb(255, 255, 5);
+    font-weight: 400;
+    font-size: 1.5rem;
     font-family: cursive;
 }
 
@@ -35,5 +38,12 @@ textarea{
 #text{
     font-family: cursive;
     color: brown;
+    margin-left:9rem;
+}
+#note{
+    font-family: cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    color: blue;
     margin-left:9rem;
 }
