@@ -10,6 +10,7 @@ function getTransalation(text){
 }
 function errorHandler(error){
     console.log("Error Occured!",error);
+    alert("The minions seem to be tired. Please try again after sometime")
 }
 function clickHandler(){
     clickCounter++;
